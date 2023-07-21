@@ -1,3 +1,10 @@
+# Changelog
+
+## 0.1.1
+
+    - Added recipe of Mint Tea item
+    - Added missing texture for Serene Effect
+
 ## 0.1.0
 
     - Initial build
